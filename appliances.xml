@@ -3,7 +3,7 @@
    <name>Appliances Inventory</name>
    <key>appliances</key>
    <state>stable</state>
-   <logo>https://raw.githusercontent.com/yllen/appliances/appliances.png</logo>
+   <logo>https://raw.githubusercontent.com/yllen/appliances/master/appliances.png</logo>
    <description>
       <short>
          <fr><![CDATA[Gestion d'applicatifs. Ce plugin vous permet de créer des applicatifs (ensemble d’élements constituant un applicatif).]]></fr>
